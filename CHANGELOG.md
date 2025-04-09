@@ -9,3 +9,7 @@
 - Tela de descanso com fade-in.
 - Backup e restauração do banco de dados.
 - Implementação de versão e estrutura para atualização futura.
+
+## [1.0.1] - 2025-04-09
+
+- Pequena alteração no titulo da tela principal, para teste de atualizaçao automática.

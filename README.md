@@ -12,7 +12,7 @@ O objetivo do sistema é fornecer uma solução prática, intuitiva e eficiente 
 - Tela de venda com restrições por nível de permissão
 - Sistema de backup, restauração e limpeza de dados
 - Tela de descanso com animação de fade-in após inatividade
-- Atualização automática (em desenvolvimento)
+- Atualização automática (em desenvolvimento e testes)
 
 ## Tecnologias Utilizadas
 
