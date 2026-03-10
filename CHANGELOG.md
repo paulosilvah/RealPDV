@@ -36,3 +36,12 @@
 
 
 
+## \[1.1.2] - 2026-03-10
+
+
+
+* Correção no sistema de licença
+* Mudanças no Mudanças no Banco de Dados
+
+
+
