@@ -45,3 +45,37 @@
 
 
 
+## \[1.1.3] - 2026-03-10
+
+
+
+* Refatoração Tela Configuração
+* Mudanças no Mudanças no Banco de Dados
+
+
+
+## \[1.1.4] - 2026-03-10
+
+
+
+* Correção no sistema de licença
+* Mudanças no Mudanças no Banco de Dados
+
+
+
+## \[1.1.5] - 2026-03-10
+
+
+
+* Mudanças no Layout
+
+
+
+## \[1.1.6] - 2026-03-10
+
+
+
+* Integração Pix EFI e Refaroraçao Pix Cielo
+* Mudanças no Mudanças no Banco de Dados
+* Refatoraçao Tela Pagamento
+
