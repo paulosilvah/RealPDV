@@ -1,6 +1,9 @@
 # Histórico de Versões
 
+
+
 ## \[1.0.0] - 2025-04-06
+
 
 
 ### Adicionado
@@ -20,11 +23,14 @@
 ## \[1.1.1] - 2026-02-20
 
 
+
 * Re fatoração Geral
 * Mudanças no Layout de Vendas e Configuração
 * Mudanças no Banco de Dados
 
 ## \[1.1.2] - 2026-03-10
+
+
 
 * Correção no sistema de licença
 * Mudanças no Mudanças no Banco de Dados
@@ -32,10 +38,13 @@
 ## \[1.1.3] - 2026-03-10
 
 
+
 * Refatoração Tela Configuração
 * Mudanças no Mudanças no Banco de Dados
 
 ## \[1.1.4] - 2026-03-10
+
+
 
 * Correção no sistema de licença
 * Mudanças no Mudanças no Banco de Dados
@@ -59,16 +68,34 @@
 * Refatoraçao Tela Pagamento
 
 
+
 ## \[1.1.7] - 2026-03-10 - 2026-04-11
+
 
 
 * Atualizações de segurança
 
+
+
 ## \[1.1.8] - 2026-03-10
+
 
 
 ## \[1.1.9] - 2026-05-08
 
+
+
 * Refaroraçao dos botoes menu lateral
 * Refatoraçao no layout da Tela Dashboard
 * Criando funcionalidades do Dashboard
+
+
+
+## \[1.2.0] - 2026-10-22
+
+
+
+* Correção de bugs no pagamento pix
+
+
+
